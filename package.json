@@ -1,0 +1,1 @@
+{"name":"guner-homework","private":true,"version":"1.0.0","type":"module","scripts":{"homeworks:index":"node scripts/build-index.mjs","validate":"node scripts/validate.mjs","build":"npm run homeworks:index && npm run validate && vite build"},"dependencies":{"@vitejs/plugin-react":"4.3.4","vite":"5.4.11","react":"18.3.1","react-dom":"18.3.1"},"devDependencies":{}}

@@ -1,0 +1,224 @@
+{
+  "id": "2026-09-02-61B62FCA",
+  "student": "Güner",
+  "date": "2026-09-02",
+  "dateLabel": "2 Sep 2026",
+  "meetingUuid": "61B62FCA-36AC-41EA-A3CD-7BF332861086",
+  "title": "The Job Market & Better Work",
+  "subtitle": "A B1/B1+ lesson about vacancies, qualifications, networking, overtime, flexible schedules and the benefits that make a job worthwhile.",
+  "teacherNote": {
+    "detected": true,
+    "applied": true,
+    "source": "post-goodbye transcript segment 00:54:31–00:57:05",
+    "summary": "Keep lesson notes; add grammar explanations with 10 questions; bilingual interactive vocabulary cards with 10 questions; remove Practice; build three five-exchange branching chats; replace reading and listening content; and use a 15-question final quiz split 5/5/3/2."
+  },
+  "sections": [
+    {
+      "id": "notes",
+      "label": "Lesson Notes",
+      "title": "Workplace conversation snapshot",
+      "intro": "The lesson explored a difficult job market, the value of experience and networking, long hours, remote and hybrid work, and the difference between salary and job perks. These notes turn the strongest ideas and language needs into a practical review.",
+      "cards": [
+        {
+          "title": "The market",
+          "text": "Good vacancies can attract hundreds of applicants. Companies may keep their current size instead of hiring, so a strong application and a useful professional network matter."
+        },
+        {
+          "title": "Qualifications + experience",
+          "text": "Formal knowledge helps people understand policies and rules, while hands-on experience helps them apply that knowledge quickly. Technical tools such as Excel and ERP systems can also strengthen a candidate."
+        },
+        {
+          "title": "Work preferences",
+          "text": "A flexible remote schedule can save commuting time, but being permanently available online may still feel restrictive. Hybrid work can offer both focus at home and contact with colleagues."
+        },
+        {
+          "title": "Natural corrections",
+          "examples": [
+            "There aren't many open positions at the moment.",
+            "Mert has eight years of experience in accounting.",
+            "If Derya worked remotely, she would start at ten.",
+            "Emre works overtime at the end of each reporting period.",
+            "The company offers private health insurance as a perk."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "label": "Grammar",
+      "title": "Workplace choices, rules and possibilities",
+      "intro": "Use the second conditional to imagine a different work situation. Use modals and have to to describe rules, freedom and possibility.",
+      "cards": [
+        {
+          "title": "1. Second conditional",
+          "text": "Use if + past simple, then would + base verb for an imagined or unlikely present/future situation. A comma is useful when the if-clause comes first.",
+          "examples": [
+            "If Selin worked remotely, she would start at ten.",
+            "Kerem would apply if the salary were higher.",
+            "If I were the manager, I would offer flexible hours."
+          ]
+        },
+        {
+          "title": "2. Work rules and possibilities",
+          "text": "Have to expresses an obligation; don't have to means something is not necessary; can expresses ability or permission; might expresses a possibility.",
+          "examples": [
+            "Leyla has to attend the board meeting.",
+            "Arda doesn't have to commute on Fridays.",
+            "Ece can set her own schedule.",
+            "The company might hire two analysts."
+          ]
+        },
+        {
+          "title": "Useful form reminders",
+          "text": "After would, can and might, use the base verb: would work, can apply, might hire. After he/she/it, use has to—not have to."
+        }
+      ],
+      "questions": [
+        {"q":"If Bora ___ from home, he would save two hours a day.","opt":["worked","would work","works"],"a":"worked","hint":"The if-clause uses past simple."},
+        {"q":"Nisa would accept the role if it ___ flexible hours.","opt":["offered","would offer","offer"],"a":"offered"},
+        {"q":"If I ___ the team leader, I would reduce unnecessary meetings.","opt":["were","would be","am"],"a":"were"},
+        {"q":"The company ___ hire more people next quarter, but the decision is not final.","opt":["might","has to","doesn't have to"],"a":"might"},
+        {"q":"Aslı ___ submit the report by Friday; it is a firm deadline.","opt":["has to","might","can"],"a":"has to"},
+        {"q":"Remote employees ___ travel to the office every day; it is not necessary.","opt":["don't have to","mustn't","might not"],"a":"don't have to"},
+        {"q":"Choose the correct sentence.","opt":["Can will Deniz apply online?","Can Deniz apply online?","Can Deniz applies online?"],"a":"Can Deniz apply online?"},
+        {"q":"If the benefits were better, Zeynep ___ with the company.","opt":["would stay","stayed","will stayed"],"a":"would stay"},
+        {"q":"Which sentence means there is no obligation?","opt":["Ozan doesn't have to work on Saturday.","Ozan mustn't work on Saturday.","Ozan might work on Saturday."],"a":"Ozan doesn't have to work on Saturday."},
+        {"q":"Choose the natural form.","opt":["The manager might offer a hybrid schedule.","The manager might offers a hybrid schedule.","The manager might to offer a hybrid schedule."],"a":"The manager might offer a hybrid schedule."}
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "label": "Vocabulary",
+      "title": "Job-market vocabulary",
+      "intro": "Tap each card to turn the English side into a complete Turkish side. Then check the words in context.",
+      "flashcards": [
+        {"front":{"word":"vacancy","definition":"an available position that an employer wants to fill","example":"Maya saw a finance vacancy on LinkedIn."},"back":{"word":"açık pozisyon","definition":"bir işverenin doldurmak istediği mevcut iş pozisyonu","example":"Maya LinkedIn'de bir finans açık pozisyonu gördü."}},
+        {"front":{"word":"applicant","definition":"a person who applies for a job or programme","example":"More than 200 applicants sent a CV for the role."},"back":{"word":"başvuru sahibi / aday","definition":"bir işe veya programa başvuran kişi","example":"Pozisyon için 200'den fazla aday özgeçmiş gönderdi."}},
+        {"front":{"word":"qualification","definition":"a skill, certificate or quality needed for a job","example":"A relevant degree is one qualification for the role."},"back":{"word":"nitelik / yeterlilik","definition":"bir iş için gerekli beceri, belge veya özellik","example":"İlgili bir diploma, pozisyon için gereken niteliklerden biridir."}},
+        {"front":{"word":"hands-on experience","definition":"practical experience gained by actually doing a task","example":"Ada gained hands-on experience with an ERP system."},"back":{"word":"uygulamalı deneyim","definition":"bir işi gerçekten yaparak kazanılan pratik deneyim","example":"Ada bir ERP sistemiyle uygulamalı deneyim kazandı."}},
+        {"front":{"word":"networking","definition":"building professional relationships that can create opportunities","example":"Networking helped Eren hear about the opening early."},"back":{"word":"profesyonel çevre oluşturma","definition":"fırsat yaratabilecek mesleki ilişkiler kurma","example":"Profesyonel çevre oluşturmak, Eren'in pozisyonu erken duymasını sağladı."}},
+        {"front":{"word":"overtime","definition":"time worked beyond normal working hours","example":"Mina worked overtime before the audit deadline."},"back":{"word":"fazla mesai","definition":"normal çalışma saatlerinin dışında çalışılan süre","example":"Mina denetim son tarihinden önce fazla mesai yaptı."}},
+        {"front":{"word":"perk","definition":"an extra benefit provided by an employer","example":"Private health insurance is a valuable perk."},"back":{"word":"yan hak","definition":"işverenin sunduğu ek fayda veya avantaj","example":"Özel sağlık sigortası değerli bir yan haktır."}},
+        {"front":{"word":"hybrid work","definition":"a system that combines office work and remote work","example":"Can works from home twice a week in a hybrid system."},"back":{"word":"hibrit çalışma","definition":"ofis ve uzaktan çalışmayı birleştiren sistem","example":"Can hibrit sistemde haftada iki gün evden çalışıyor."}},
+        {"front":{"word":"get promoted","definition":"move to a higher position at work","example":"Seda hopes to get promoted to senior analyst."},"back":{"word":"terfi etmek","definition":"işte daha yüksek bir pozisyona geçmek","example":"Seda kıdemli analistliğe terfi etmeyi umuyor."}},
+        {"front":{"word":"rewarding","definition":"giving satisfaction because the work feels useful or valuable","example":"Helping small businesses can be demanding but rewarding."},"back":{"word":"tatmin edici","definition":"yararlı veya değerli hissettirdiği için memnuniyet veren","example":"Küçük işletmelere yardım etmek zorlayıcı ama tatmin edici olabilir."}}
+      ],
+      "questions": [
+        {"q":"An available job position is a ___.","opt":["vacancy","perk","qualification"],"a":"vacancy"},
+        {"q":"A person who sends a CV for a role is an ___.","opt":["applicant","auditor","employer benefit"],"a":"applicant"},
+        {"q":"Actually using Excel and ERP software gives you ___.","opt":["hands-on experience","overtime","a vacancy"],"a":"hands-on experience"},
+        {"q":"Professional relationships that help you hear about roles are called ___.","opt":["networking","commission","commuting"],"a":"networking"},
+        {"q":"Hours worked beyond your normal schedule are ___.","opt":["overtime","qualifications","vacancies"],"a":"overtime"},
+        {"q":"Health insurance offered in addition to salary is a ___.","opt":["perk","deadline","reference"],"a":"perk"},
+        {"q":"Working some days at home and some in the office is ___.","opt":["hybrid work","night work","unemployment"],"a":"hybrid work"},
+        {"q":"Move to a more senior role means ___.","opt":["get promoted","get around","get hired late"],"a":"get promoted"},
+        {"q":"Which word means satisfying because it feels valuable?","opt":["rewarding","available","fixed"],"a":"rewarding"},
+        {"q":"A degree, certificate or required skill is a ___.","opt":["qualification","schedule","salary"],"a":"qualification"}
+      ]
+    },
+    {
+      "id": "conversation",
+      "label": "Daily Use",
+      "title": "Workplace message practice",
+      "intro": "Choose a reply and watch each conversation develop. Every situation contains five complete back-and-forth exchanges, and your choices change the response you receive.",
+      "scenarios": [
+        {
+          "title": "A networking message",
+          "context": "Maya · former colleague",
+          "opening": "Hi! I heard your finance team has a vacancy. Do you know much about it?",
+          "turns": [
+            {"options":[{"text":"Yes, they're looking for a reporting analyst.","response":"That sounds relevant. Do you know which qualifications they require?"},{"text":"Only a little, but I can check the internal notice.","response":"Thanks—that would help. Could you check which qualifications they require?"}]},
+            {"options":[{"text":"They want strong Excel skills and two years of experience.","response":"Good, I have both. Would you feel comfortable referring me?"},{"text":"The main requirements are ERP knowledge and reporting experience.","response":"That matches my background. Would you feel comfortable referring me?"}]},
+            {"options":[{"text":"Of course. Send me your latest CV first.","response":"I appreciate it. Should I adapt the CV to emphasize my reporting work?"},{"text":"Possibly. Let me read your CV before I promise.","response":"That's fair. Should I adapt it to emphasize my reporting work?"}]},
+            {"options":[{"text":"Yes, put your most relevant results near the top.","response":"Great advice. Is there anything else I should mention in the application?"},{"text":"Yes, include specific examples of the systems you used.","response":"Good idea. Is there anything else I should mention in the application?"}]},
+            {"options":[{"text":"Mention that you can start next month. I'll forward it tomorrow.","response":"Perfect—thank you for helping. I'll send the updated CV this evening."},{"text":"Add your language skills, and I'll pass it to the manager.","response":"Perfect—thank you for helping. I'll send the updated CV this evening."}]}
+          ]
+        },
+        {
+          "title": "A recruiter screening",
+          "context": "Jonas · recruiter",
+          "opening": "Hello, thanks for applying. What interested you in this position?",
+          "turns": [
+            {"options":[{"text":"The role combines accounting knowledge with practical analysis.","response":"That's exactly the balance we need. What hands-on experience do you have?"},{"text":"I'm interested in the international team and the reporting work.","response":"Both are central to the role. What hands-on experience do you have?"}]},
+            {"options":[{"text":"I have used Excel and two ERP systems for monthly reporting.","response":"Useful background. How do you manage a busy reporting deadline?"},{"text":"I prepared reports and supported audits for several clients.","response":"That is relevant. How do you manage a busy reporting deadline?"}]},
+            {"options":[{"text":"I prioritize tasks and confirm deadlines with the team.","response":"Clear communication matters here. Are you comfortable working overtime occasionally?"},{"text":"I make a checklist and raise problems early.","response":"That sounds organized. Are you comfortable working overtime occasionally?"}]},
+            {"options":[{"text":"Yes, when it is planned and genuinely necessary.","response":"That's reasonable. What kind of schedule would help you do your best work?"},{"text":"Occasionally, yes, although I value a predictable schedule.","response":"We try to plan ahead. What kind of schedule would help you do your best work?"}]},
+            {"options":[{"text":"A hybrid schedule with two focused days at home would suit me.","response":"Thank you. That fits our policy, so I'd like to invite you to a full interview."},{"text":"Flexible starting times would help me avoid the busiest commute.","response":"Thank you. We offer flexitime, so I'd like to invite you to a full interview."}]}
+          ]
+        },
+        {
+          "title": "Discussing flexible work",
+          "context": "Elif · team manager",
+          "opening": "Hi, I'd like your view on our new hybrid-work policy.",
+          "turns": [
+            {"options":[{"text":"I like the idea. Which days would the team meet in the office?","response":"We are considering Tuesday and Thursday. Would that work for you?"},{"text":"I'm interested, especially if the schedule stays predictable.","response":"We plan to use Tuesday and Thursday as office days. Would that work for you?"}]},
+            {"options":[{"text":"Yes. I could arrange focused work at home on the other days.","response":"Good. How should we make sure everyone remains available?"},{"text":"Mostly, although Thursday is difficult once a month.","response":"We can allow exceptions. How should we make sure everyone remains available?"}]},
+            {"options":[{"text":"We could agree on core hours for calls and messages.","response":"I like that. Should employees also be allowed to start earlier or later?"},{"text":"A shared calendar could show when each person is online.","response":"That would be useful. Should employees also be allowed to start earlier or later?"}]},
+            {"options":[{"text":"Yes, if deadlines and team meetings are covered.","response":"Agreed. What benefit do you expect from the change?"},{"text":"Some flexibility would help, but core hours should stay fixed.","response":"That sounds balanced. What benefit do you expect from the change?"}]},
+            {"options":[{"text":"Less commuting should improve focus and energy.","response":"Good point. I'll include that in the proposal to senior management."},{"text":"The team may be more productive if quiet work happens at home.","response":"Good point. I'll include that in the proposal to senior management."}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "label": "Reading",
+      "title": "B1+ reading: A careful career move",
+      "readings": [
+        {
+          "level": "B1+",
+          "title": "The Opportunity Behind the Message",
+          "text": "After four years in the same accounting department, Melis decided to explore the job market. She was not desperate to leave, but her commute had become longer and promotion opportunities were limited. She updated her CV and checked vacancies every evening. Many roles attracted hundreds of applicants, so simply sending the same CV everywhere did not seem useful.\n\nInstead, Melis created a focused plan. For each suitable vacancy, she highlighted the qualifications that matched her experience. She did not only write that she knew Excel and an ERP system; she explained how she had used them to shorten a monthly reporting process. She also included examples of problems she had found during an audit. These details showed hands-on experience rather than a list of technical words.\n\nA week later, an old colleague named Baran sent her a message. His company needed a reporting specialist, but the vacancy had not been published yet. Baran could not promise her the job, but he offered to refer her to the department manager. Melis sent him her revised CV and asked honest questions about the team, overtime and management style. She wanted a better role, not simply a different one.\n\nDuring the interview, the manager explained that the team sometimes worked overtime at the end of a quarter. However, employees could use a hybrid schedule and begin between eight and ten in the morning. The company also offered private health insurance and a training budget. The salary was slightly higher than Melis's current salary, but the flexible hours were the most valuable perk for her.\n\nMelis received an offer two days later. Before accepting, she compared the full package, the daily responsibilities and the chance to learn. Networking had opened the door, but her relevant evidence and careful questions had helped her walk through it. Her experience taught her that a successful job search combines relationships, preparation and a clear idea of what makes work sustainable.",
+          "questions": [
+            {"q":"Why did Melis begin exploring the job market?","opt":["Her commute was longer and promotion was limited.","She had no accounting experience.","Her company closed immediately."],"a":"Her commute was longer and promotion was limited."},
+            {"q":"How did she show hands-on experience in her CV?","opt":["She described results and real tasks.","She listed only software names.","She removed all technical details."],"a":"She described results and real tasks."},
+            {"q":"How did Baran help her?","opt":["He offered to refer her before the vacancy was public.","He guaranteed a promotion.","He completed the interview for her."],"a":"He offered to refer her before the vacancy was public."},
+            {"q":"Which perk mattered most to Melis?","opt":["Flexible working hours","A company car","Free restaurant meals"],"a":"Flexible working hours"},
+            {"q":"What is the main message of the reading?","opt":["A strong search combines networking, evidence and clear priorities.","Networking makes qualifications unnecessary.","The highest salary is always the best choice."],"a":"A strong search combines networking, evidence and clear priorities."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "label": "Listening",
+      "title": "B1 listening: If I were the boss",
+      "external": {
+        "title": "Second Conditional — workplace changes",
+        "level": "B1 Intermediate",
+        "url": "https://www.elllo.org/class/B1/B1-15-Second-Conditional.html",
+        "instructions": "Play Conversation 1. Listen once for the speakers' general preferences, then listen again for the changes, schedules and reasons. Answer the questions here before checking the script or source quiz."
+      },
+      "questions": [
+        {"q":"What would the woman change first if she were the boss?","opt":["She would let people work from home.","She would close the company.","She would remove all schedules."],"a":"She would let people work from home."},
+        {"q":"What other freedom would she give employees?","opt":["They could set their own schedules.","They could choose their own salaries.","They could cancel every meeting."],"a":"They could set their own schedules."},
+        {"q":"When would she choose to work at night?","opt":["When the weather was nice","When the weather was bad","Every Monday"],"a":"When the weather was nice"},
+        {"q":"What would she do if the weather was bad?","opt":["Work during the day","Take a holiday","Travel to college"],"a":"Work during the day"},
+        {"q":"How does the man react to her schedule idea?","opt":["He says he might do the same.","He completely disagrees.","He wants fixed night shifts only."],"a":"He says he might do the same."}
+      ]
+    },
+    {
+      "id": "quiz",
+      "label": "Final Quiz",
+      "title": "15-question lesson check",
+      "intro": "Five grammar questions, five vocabulary questions, three Daily Use questions and two lesson-concept questions.",
+      "questions": [
+        {"category":"grammar","q":"If Defne ___ a shorter commute, she would apply.","opt":["had","would have","has"],"a":"had"},
+        {"category":"grammar","q":"Kaan would choose the role if the hours ___ flexible.","opt":["were","would be","are being"],"a":"were"},
+        {"category":"grammar","q":"Employees ___ wear formal clothes on remote days; it is not necessary.","opt":["don't have to","mustn't","might"],"a":"don't have to"},
+        {"category":"grammar","q":"The firm ___ open a new position next month, but nothing is confirmed.","opt":["might","has to","can to"],"a":"might"},
+        {"category":"grammar","q":"Choose the correct form.","opt":["If Suna were the manager, she would offer flexitime.","If Suna would be the manager, she offered flexitime.","If Suna was manager, she would offered flexitime."],"a":"If Suna were the manager, she would offer flexitime."},
+        {"category":"vocabulary","q":"A job that is available is a ___.","opt":["vacancy","perk","schedule"],"a":"vacancy"},
+        {"category":"vocabulary","q":"Real practice gained by doing the work is ___.","opt":["hands-on experience","a qualification list","commission"],"a":"hands-on experience"},
+        {"category":"vocabulary","q":"An extra employer benefit is a ___.","opt":["perk","deadline","candidate"],"a":"perk"},
+        {"category":"vocabulary","q":"Working beyond normal hours is called ___.","opt":["overtime","hybrid work","networking"],"a":"overtime"},
+        {"category":"vocabulary","q":"Moving to a higher role means you ___.","opt":["get promoted","get referred","get remote"],"a":"get promoted"},
+        {"category":"conversation","q":"A former colleague asks for a referral. What is the best first response?","opt":["Send me your latest CV and I'll review it.","You get job surely.","No need qualifications."],"a":"Send me your latest CV and I'll review it."},
+        {"category":"conversation","q":"A recruiter asks about overtime. Choose a balanced reply.","opt":["I can work overtime occasionally when it is planned and necessary.","I always work every night without question.","Overtime is not my speak."],"a":"I can work overtime occasionally when it is planned and necessary."},
+        {"category":"conversation","q":"A manager asks how a hybrid team can stay available. What is most practical?","opt":["Agree on core hours and use a shared calendar.","Never send messages.","Keep every computer open all night."],"a":"Agree on core hours and use a shared calendar."},
+        {"category":"notes","q":"Why can networking be valuable in a competitive job market?","opt":["Some opportunities are shared internally before a public vacancy.","It replaces all skills and experience.","It guarantees every applicant a job."],"a":"Some opportunities are shared internally before a public vacancy."},
+        {"category":"notes","q":"Why are qualifications and hands-on experience both useful?","opt":["Knowledge explains the rules, while experience helps apply them in real situations.","They are two words for salary.","Only qualifications improve working speed."],"a":"Knowledge explains the rules, while experience helps apply them in real situations."}
+      ]
+    }
+  ]
+}
